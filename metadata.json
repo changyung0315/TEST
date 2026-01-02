@@ -1,0 +1,7 @@
+{
+  "name": "MathMagic: Grade 3 Tutor",
+  "description": "An interactive math learning platform for Grade 3 students featuring AI-powered explanations, dynamic quiz generation, and progress tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
